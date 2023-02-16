@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi 👋 My name is Mykola
 
-<!--
-**MVPavlyk/MVPavlyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Senior Full Stack Developer
 
-Here are some ideas to get you started:
+I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉️ You can contact me at [mykola.rangein@gmail.com](mykola.rangein@gmail.com)
+- 🤝 I'm open to collaborating on project work or partnerships
+
+### Socials
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/mykola-pavlyk/" target="_blank" rel="noreferrer"><img src="./assets/lnkd.svg" width="36" height="36" alt="Linkedin" /></a>
+</p>
