@@ -10,5 +10,5 @@ I describe myself as a passionate developer who loves coding, open source, and t
 ### Socials
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/mykola-pavlyk-6865a5225/" target="_blank" rel="noreferrer"><img src="./assets/lnkd.svg" width="36" height="36" alt="Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/pavlyk-mykola/" target="_blank" rel="noreferrer"><img src="./assets/lnkd.svg" width="36" height="36" alt="Linkedin" /></a>
 </p>
