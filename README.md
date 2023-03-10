@@ -1,6 +1,6 @@
 # Hi 👋 My name is Mykola
 
-## I'm a Middle Full Stack Developer
+## I'm a Full Stack Developer
 
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️
 
